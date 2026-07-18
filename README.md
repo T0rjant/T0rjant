@@ -23,9 +23,9 @@
 
 ### 🛠️ What I care about
 
-- ⚡ **Performance** — native code, no Electron, near-zero CPU when idle
-- 🔒 **Privacy &amp; security** — sandboxed apps, no telemetry, no accounts
-- 🎨 **Design** — interfaces that feel intentional, not templated
+- ⚡ **Performance** native code, no Electron, near-zero CPU when idle
+- 🔒 **Privacy &amp; security** sandboxed apps, no telemetry, no accounts
+- 🎨 **Design** interfaces that feel intentional, not templated
 
 ---
 
@@ -33,4 +33,4 @@
   <img src="https://github-readme-stats.vercel.app/api?username=T0rjant&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats">
 </p>
 
-<p align="center"><sub>💜 Open source under copyleft licenses — free to use, not to close down.</sub></p>
+<p align="center"><sub>💜 Open source under copyleft licenses free to use, not to close down.</sub></p>
