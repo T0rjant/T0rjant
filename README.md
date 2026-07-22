@@ -1,36 +1,38 @@
-<h1 align="center">Hi, I'm Torjant 👋🌴</h1>
+<h1 align="center">Hi, I'm Torjant 👋</h1>
 
 <p align="center">
-  <b>macOS developer · Swift &amp; SwiftUI · indie apps that stay light and private.</b><br>
-  <sub>Développeur macOS · j'aime les apps natives, minuscules et respectueuses de la vie privée.</sub>
+  <b>I build apps that are actually useful: fast, light, and private.</b><br>
+  <sub>Je crée des apps vraiment utiles : rapides, légères et respectueuses de tes données.</sub>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Swift-F05138?logo=swift&logoColor=white" alt="Swift">
-  <img src="https://img.shields.io/badge/SwiftUI-0A84FF?logo=swift&logoColor=white" alt="SwiftUI">
   <img src="https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=white" alt="macOS">
+  <img src="https://img.shields.io/badge/Windows-0078D4?logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/FR%20%C2%B7%20EN-bilingual-7A2EF7" alt="Bilingual FR/EN">
 </p>
 
 ---
 
-### 🚀 Featured project — GTA VI Watch
+### 🧭 My rules for every app I ship
 
-> 🌴 A native macOS menu bar app that tracks everything around **GTA VI** &amp; **Take-Two (TTWO)**: live stock, official Rockstar/Take-Two announcements, press coverage, native alerts, and a release countdown. ~1.3 MB, sandboxed, zero dependencies. 🇫🇷/🇺🇸
+- 🎯 **Useful first.** Solves a real problem, no gadget bloat
+- ⚡ **Optimized to the bone.** Native code, tiny footprint, near-zero CPU when idle. No Electron.
+- 🔒 **Private by design.** No telemetry, no accounts, no data collection. Ever.
+- 🌍 **Bilingual.** Every app ships in English and French
+- 💜 **Open source.** Copyleft licenses: free to use, free to inspect, not free to close down
 
-**[→ Check out GTA VI Watch](https://github.com/T0rjant/gta6-watch)**
-
----
-
-### 🛠️ What I care about
-
-- ⚡ **Performance** native code, no Electron, near-zero CPU when idle
-- 🔒 **Privacy &amp; security** sandboxed apps, no telemetry, no accounts
-- 🎨 **Design** interfaces that feel intentional, not templated
+<sub>🇫🇷 Mes règles : utile avant tout · optimisé à fond · privé par conception (zéro télémétrie, zéro compte) · bilingue FR/EN · open source en copyleft.</sub>
 
 ---
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=T0rjant&show_icons=true&hide_border=true&theme=radical" alt="GitHub stats">
-</p>
+### 🚀 Projects
 
-<p align="center"><sub>💜 Open source under copyleft licenses free to use, not to close down.</sub></p>
+| App | What it does | Platforms |
+|---|---|---|
+| 🌴 **[GTA VI Watch](https://github.com/T0rjant/gta6-watch)** | The all-in-one GTA VI & Take-Two (TTWO) dashboard: live stock, official news, insiders, trailers, release countdown | macOS |
+
+<sub>More coming, this list is just getting started. · D'autres arrivent, la liste ne fait que commencer.</sub>
+
+---
+
+<p align="center"><sub>💬 Feedback and ideas are always welcome. Open an issue on any project!<br>Les retours et idées sont toujours bienvenus.</sub></p>
