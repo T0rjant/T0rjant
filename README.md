@@ -30,6 +30,7 @@
 | App | What it does | Platforms |
 |---|---|---|
 | 🌴 **[GTA VI Watch](https://github.com/T0rjant/gta6-watch)** | The all-in-one GTA VI & Take-Two (TTWO) dashboard: live stock, official news, insiders, trailers, release countdown | macOS |
+| 🌈 **[PrismRGB](https://github.com/T0rjant/PrismRGB)** | All your PC's RGB in one app that just works: fans, AIO, RAM, strips. MSI, ASUS, ASRock, Gigabyte, 15 effects, zero in-game impact | Windows |
 
 <sub>More coming, this list is just getting started. · D'autres arrivent, la liste ne fait que commencer.</sub>
 
