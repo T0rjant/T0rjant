@@ -13,19 +13,19 @@
 
 ---
 
-### 🧭 My rules for every app I ship
+### My rules for every app I ship
 
-- 🎯 **Useful first.** Solves a real problem, no gadget bloat
-- ⚡ **Optimized to the bone.** Native code, tiny footprint, near-zero CPU when idle. No Electron.
-- 🔒 **Private by design.** No telemetry, no accounts, no data collection. Ever.
-- 🌍 **Bilingual.** Every app ships in English and French
-- 💜 **Open source.** Copyleft licenses: free to use, free to inspect, not free to close down
+-  **Useful first.** Solves a real problem, no gadget bloat
+-  **Optimized to the bone.** Native code, tiny footprint, near-zero CPU when idle. No Electron.
+-  **Private by design.** No telemetry, no accounts, no data collection. Ever.
+-  **Bilingual.** Every app ships in English and French
+-  **Open source.** Copyleft licenses: free to use, free to inspect, not free to close down
 
-<sub>🇫🇷 Mes règles : utile avant tout · optimisé à fond · privé par conception (zéro télémétrie, zéro compte) · bilingue FR/EN · open source en copyleft.</sub>
+<sub> Mes règles : utile avant tout · optimisé à fond · privé par conception (zéro télémétrie, zéro compte) · bilingue FR/EN · open source en copyleft.</sub>
 
 ---
 
-### 🚀 Projects
+### Projects
 
 | App | What it does | Platforms |
 |---|---|---|
@@ -36,4 +36,4 @@
 
 ---
 
-<p align="center"><sub>💬 Feedback and ideas are always welcome. Open an issue on any project!<br>Les retours et idées sont toujours bienvenus.</sub></p>
+<p align="center"><sub> Feedback and ideas are always welcome. Open an issue on any project!<br>Les retours et idées sont toujours bienvenus.</sub></p>
